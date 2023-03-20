@@ -8,7 +8,7 @@ Die nächste Pandemie kommt, so viel ist sicher. Nur wann es so weit sein wird, 
 
 „Welche Daten würden Sie sich für die nächste Pandemie wünschen?". Das hat die _Süddeutsche Zeitung_ Wissenschaftlerinnen und Experten, Ministerien, Behörden und Gesundheitsämter gefragt und ihre Antworten zusammengefasst. So entstand dieser Wunschzettel mit acht mehr oder weniger realistischen Forderungen. Oder auch: Hausaufgaben für Wissenschaft, Politik und Medien.
 
-_Die Wunschliste ist im März 2023 in der Süddeutschen Zeitung erschienen. In diesem Dokument sind die Ergebnisse der Recherche ausführlich dokumentiert (Wunschliste in Stichpunkten) und die detaillierten Antworten von Expert\*innen, Behörden und Ministerien öffentlich zugänglich (Antworten im Detail). Alle Inhalte in diesem Dokument können nach der_ [_Lizenz CC BY 4.0_](https://creativecommons.org/licenses/by/4.0/) _weiterverwendet werden._
+_Die Wunschliste ist im März 2023 in der Süddeutschen Zeitung erschienen. In diesem Dokument sind die Ergebnisse der Recherche ausführlich dokumentiert (Wunschliste in Stichpunkten) und die detaillierten Antworten von Expert\*innen, Behörden und Ministerien öffentlich zugänglich (Antworten im Detail). Alle Inhalte in diesem Dokument können nach der_ [_Lizenz CC BY 4.0_](https://creativecommons.org/licenses/by/4.0/) _weiterverwendet werden. Bei Fragen können Sie sich an [_Sören Müller-Hansen_](mailto:soeren.mueller-hansen@sz.de) wenden._
 
 Die _Süddeutsche Zeitung_ hat für den Wunschzettel für die nächste Pandemie verschiedene Wissenschaftler\*innen und Expert\*innen, Ministerien, Behörden und Gesundheitsämter nach ihren Wünschen, Meinungen und Einschätzungen befragt. Diese Antworten sind in die Recherche eingeflossen:
 
