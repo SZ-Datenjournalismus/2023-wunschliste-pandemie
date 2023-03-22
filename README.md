@@ -8,27 +8,27 @@ Die nächste Pandemie kommt, so viel ist sicher. Nur wann es so weit sein wird, 
 
 „Welche Daten würden Sie sich für die nächste Pandemie wünschen?". Das hat die _Süddeutsche Zeitung_ Wissenschaftlerinnen und Experten, Ministerien, Behörden und Gesundheitsämter gefragt und ihre Antworten zusammengefasst. So entstand dieser Wunschzettel mit acht mehr oder weniger realistischen Forderungen. Oder auch: Hausaufgaben für Wissenschaft, Politik und Medien.
 
-_Die Wunschliste ist im März 2023 in der Süddeutschen Zeitung erschienen. In diesem Dokument sind die Ergebnisse der Recherche ausführlich dokumentiert (Wunschliste in Stichpunkten) und die detaillierten Antworten von Expert\*innen, Behörden und Ministerien öffentlich zugänglich (Antworten im Detail). Alle Inhalte in diesem Dokument können nach der_ [_Lizenz CC BY 4.0_](https://creativecommons.org/licenses/by/4.0/) _weiterverwendet werden. Bei Fragen können Sie sich an [_Sören Müller-Hansen_](mailto:soeren.mueller-hansen@sz.de) wenden._
+_Die Wunschliste ist im März 2023 in der Süddeutschen Zeitung erschienen. In diesem Dokument sind die Ergebnisse der Recherche ausführlich dokumentiert ([Wunschliste in Stichpunkten](#wunschliste)) und die detaillierten Antworten von Expert\*innen, Behörden und Ministerien öffentlich zugänglich ([Antworten im Detail](#antworten)). Alle Inhalte in diesem Dokument können nach der_ [_Lizenz CC BY 4.0_](https://creativecommons.org/licenses/by/4.0/) _weiterverwendet werden. Bei Fragen können Sie sich an [_Sören Müller-Hansen_](mailto:soeren.mueller-hansen@sz.de) wenden._
 
 Die _Süddeutsche Zeitung_ hat für den Wunschzettel für die nächste Pandemie verschiedene Wissenschaftler\*innen und Expert\*innen, Ministerien, Behörden und Gesundheitsämter nach ihren Wünschen, Meinungen und Einschätzungen befragt. Diese Antworten sind in die Recherche eingeflossen:
 
-- Christian Karagiannidis, Intensivmediziner und Leiter des Divi-Intensivregisters
-- Peter Klimek, Komplexitätsforscher an der Medizinischen Universität Wien
-- Viola Priesemann, Physikerin am Max-Planck-Institut für Dynamik und Selbstorganisation
-- Ulrike Protzer, Virologin an der TU München
-- Jonas Schöley, Demograf am Max-Planck-Institut für demografische Forschung
-- Stefan Scholz, wissenschaftlicher Koordinator des Modellierungsnetzes für schwere Infektionskrankheiten
-- gemeinsame Antwort des Modellierungsnetzes für schwere Infektionskrankheiten
-- Bundesministerium für Gesundheit
-- Bundesministerium für Digitales und Verkehr
-- Ministerium für Gesundheit, Arbeit und Soziales Nordrhein-Westfalen
-- Bayerisches Staatsministerium für Gesundheit und Pflege
-- Gesundheitsamt Köln
-- Gesundheitsreferat der Stadt München
-- Robert-Koch-Institut
-- Science Media Center
+- [Christian Karagiannidis, Intensivmediziner und Leiter des Divi-Intensivregisters](#karagiannidis)
+- [Peter Klimek, Komplexitätsforscher an der Medizinischen Universität Wien](#klimek)
+- [Viola Priesemann, Physikerin am Max-Planck-Institut für Dynamik und Selbstorganisation](#priesemann)
+- [Ulrike Protzer, Virologin an der TU München](#protzer)
+- [Jonas Schöley, Demograf am Max-Planck-Institut für demografische Forschung](#schoeley)
+- [Stefan Scholz, wissenschaftlicher Koordinator des Modellierungsnetzes für schwere Infektionskrankheiten](#scholz)
+- [gemeinsame Antwort des Modellierungsnetzes für schwere Infektionskrankheiten](#modellierungsnetz)
+- [Bundesministerium für Gesundheit](#bmg)
+- [Bundesministerium für Digitales und Verkehr](#bmdv)
+- [Ministerium für Gesundheit, Arbeit und Soziales Nordrhein-Westfalen](#nrw)
+- [Bayerisches Staatsministerium für Gesundheit und Pflege](#bayern)
+- [Gesundheitsamt Köln](#koeln)
+- [Gesundheitsreferat der Stadt München](#muenchen)
+- [Robert-Koch-Institut](#rki)
+- [Science Media Center](#smc)
 
-# Wunschliste in Stichpunkten
+# <a name="wunschliste"></a>Wunschliste in Stichpunkten
 
 1. Digitale Meldekette vom Kindergarten bis zur Rechtsmedizin
   1. Alle Prozesse, von der Datenerfassung bis zur zentralen Auswertung müssen digital ablaufen
@@ -162,9 +162,9 @@ Die _Süddeutsche Zeitung_ hat für den Wunschzettel für die nächste Pandemie 
   15. Peter Klimek: „Letzten Endes deuten mittlerweile viele Studien darauf hin, dass einer der wichtigsten Hebel die Gesundheitskompetenz in der Bevölkerung ist. Je höher diese Kompetenz ist, desto weniger wird man auf stark einschneidende Maßnahmen wie Lockdowns dauerhaft zurückgreifen müssen."
   16. Stefan Scholz: „Es steht Modelliererinnen und Modellierern meiner Meinung nach nicht zu, Maßnahmen zu fordern. Modelle sollen Entscheidungsträgern nur helfen, wahrscheinliche Entwicklungen und die Konsequenzen von Maßnahmen bezüglich epidemiologischer Fallzahlen abzuschätzen."
 
-# Antworten im Detail
+# <a name="antworten"></a>Antworten im Detail
 
-## Christian Karagiannidis, Intensivmediziner und Leiter des Divi-Intensivregisters
+## <a name="karagiannidis"></a>Christian Karagiannidis, Intensivmediziner und Leiter des Divi-Intensivregisters
 
 **Wenn Sie eine Wunschliste schreiben könnten: Welche Daten würden Sie sich für die nächste Pandemie wünschen und warum?**
 
@@ -198,7 +198,7 @@ Wir brauchen aus den Krankenhäusern ohne Wenn und Aber die Kapazitäten in Real
 
 Das Entscheidende an den Daten ist nicht, aus welchem Krankenhaus sie kommen, sondern entscheidend ist: Wie tragen diese Daten dazu bei, dass der Patient a) individuell besser versorgt wird und b) bessere Therapien entwickelt werden können. Dazu ist es in meinen Augen unabdingbar, dass es eine einheitliche Patientenakte gibt, auf die Ärzte von überall her zugreifen können, so dass im Notfall, selbst wenn sich der Patient nicht mehr artikulieren kann, alle Informationen vorliegen. Dieses Defizit kostet tagtäglich Menschenleben.
 
-## Peter Klimek, Komplexitätsforscher an der Medizinischen Universität Wien
+## <a name="klimek"></a>Peter Klimek, Komplexitätsforscher an der Medizinischen Universität Wien
 
 **Wenn Sie eine Wunschliste schreiben könnten: Welche Daten würden Sie sich für die nächste Pandemie wünschen und warum?**
 
@@ -222,7 +222,7 @@ Einer der nachhaltigen Effekte, die ich sehe, ist, dass sich die Balance zwische
 
 Das ist schwierig, zumal ich auch Datenanalyst und Modellrechner bin. Insgesamt wurde in einigen Phasen vielleicht zu wenig auf das "Schweizer Käse Modell" Wert gelegt. Dieses besagt, dass jede einzelne Maßnahme eine reduzierte Wirksamkeit hat (Masken, Teststrategie, Kontaktreduktion in bestimmten Bereichen, Verhaltensänderungen, Hygiene, ...) und für sich alleine nicht auf Dauer eine Kontrolle über die Pandemie ermöglicht. Wenn hinreichend viele dieser Maßnahmen übereinandergeschichtet werden, ergibt sich daraus aber sehr wohl eine starke Wirkung. Und was man an Wirksamkeit in einer der Schutzebene nicht hat (z.B. Hygienemaßnahmen), muss man auf anderen Ebenen mit mehr Strenge kompensieren (Kontaktreduktion). In der Kommunikation spitzte sich das aber häufig auf die Wirksamkeit einzelner Maßnahmen (z.B. Masken) zu, während aus wissenschaftlicher Sicht die Wirksamkeit einer solchen Maßnahme nicht "für sich", sondern im Gesamtverbund aller Maßnahmen und der Bereitschaft der Bevölkerung, diese mitzutragen, beurteilt werden kann. Letzten Endes deuten mittlerweile viele der Studien darauf hin, dass einer der wichtigsten Hebel die Gesundheitskompetenz / health literacy in der Bevölkerung ist, und hier sollte man auch insbesondere zur Vorbereitung auf mögliche zukünftige Pandemien ansetzen. Je höher diese Kompetenz ist, desto weniger wird man auf stark einschneidende Maßnahmen wie Lockdowns dauerhaft zurückgreifen müssen.
 
-## Viola Priesemann, Physikerin am Max-Planck-Institut für Dynamik und Selbstorganisation
+## <a name="priesemann"></a>Viola Priesemann, Physikerin am Max-Planck-Institut für Dynamik und Selbstorganisation
 
 **Wenn Sie eine Wunschliste schreiben könnten: Welche Daten würden Sie sich für die nächste Pandemie wünschen und warum?**
 
@@ -280,7 +280,7 @@ Außerdem brauchen wir europäische Koordination. Wir haben viel gelernt über d
 
 Eine Art Expertengremium zu den verschiedenen Themen, das rein wissenschaftlich zusammengesetzt ist, ist essenziell für das Vertrauen. Man sollte nicht nach Prominenz, nicht nach Politik, nicht nach Ergebnis dieser Gremien zusammenstellen, sondern immer rein nach Expertise.
 
-## Ulrike Protzer, Virologin an der TU München
+## <a name="protzer"></a>Ulrike Protzer, Virologin an der TU München
 
 „Wir brauchen eine konstante Förderung von Grundlagenforschung, sowohl die Forschung in der Grundlagenvirologie, um die Virusstruktur und die Viren in Zellen besser zu verstehen, als aber auch die Forschung im Bereich des Immunsystems. Die Strukturen, solche Forschung durchzuführen, müssen auch in Deutschland und Europa da sein, damit man zumindest versuchen kann, die Viren, die auf uns zukommen können, so gut wie möglich verstanden zu haben, bevor sie da sind."
 
@@ -290,7 +290,7 @@ Eine Art Expertengremium zu den verschiedenen Themen, das rein wissenschaftlich 
 
 „Es ist wichtig, wie der Datenschutz interpretiert wird. Da sind wir in Deutschland sehr vorsichtig. Es gibt sicherlich moderne Wege, wie man auch unter dem Schutz persönlicher Informationen Daten austauschen kann. In Deutschland sind wir immer mit einem doppelten Sicherheitsgedanken unterwegs, der blockiert dann natürlich einfach Dinge."
 
-## Jonas Schöley, Demograf am Max-Planck-Institut für demografische Forschung
+## <a name="schoeley"></a>Jonas Schöley, Demograf am Max-Planck-Institut für demografische Forschung
 
 **Welche strukturellen Vor- und Nachteile sehen Sie in der in Deutschland häufig auftretenden föderalen Datensammlung und wie ließe sich diese Infrastruktur aus Ihrer Sicht verbessern?**
 
@@ -318,7 +318,7 @@ Das Bereitstellen von Daten nach detaillierter Region, Geschlecht und Alter wird
 
 Mein Fokus liegt auf der Mortalität und hier habe ich eine enorme Beschleunigung und Ausweitung der Datenveröffentlichung erlebt. So gibt es mittlerweile in Deutschland eine im Monatsrhythmus veröffentlichte und aktuelle Todesursachenstatistik [https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Gesundheit/Todesursachen/Tabellen/sonderauswertung-todesursachen.html] – ein unglaublicher Fortschritt gemessen an der jährlichen und um 6 Monate verzögerten Veröffentlichung vor der Pandemie. Europaweit gibt es regionale und aktuelle Daten zu Todesfällen – auch dies war vor der Pandemie nicht gegeben. Bei allen bestehenden Mängeln: die Bevölkerungsstatistik hat sich während der Pandemie enorm bewegt.
 
-## Stefan Scholz, wissenschaftlicher Koordinator des Modellierungsnetzes für schwere Infektionskrankheiten 
+## <a name="scholz"></a>Stefan Scholz, wissenschaftlicher Koordinator des Modellierungsnetzes für schwere Infektionskrankheiten 
 
 **Wenn Sie eine Wunschliste schreiben könnten: Welche Daten würden Sie sich für die nächste Pandemie wünschen und warum?** 
 
@@ -372,7 +372,7 @@ Daten eigentlich die gleichen wie bei 1. Was ich gut fände, wenn die Politik si
 
 Ich würde mich an England orientieren: Ich fände es gut, wenn es 3-4 Zentren (RKI, HZI, Universitäten) in Deutschland gibt, die Modellierung betreiben, auch außerhalb von Pandemien. Es gibt genügend Forschungsfragen für endemische Erreger und auf diese Weise bleibt Modellierungswissen vorhanden, dass bei einer Pandemie schnell verfügbar ist. Diese Zentren sollten idealerweise mit Medizin, Öffentlichem Gesundheitsdienst, aber auch Disziplinen wie Soziologie, Psychologie, usw. vernetzt werden. 
 
-## gemeinsame Antwort des Modellierungsnetzes für schwere Infektionskrankheiten 
+## <a name="modellierungsnetz"></a>gemeinsame Antwort des Modellierungsnetzes für schwere Infektionskrankheiten 
 
 **Wenn Sie eine Wunschliste schreiben könnten: Welche Daten würden Sie sich für die nächste Pandemie wünschen und warum?** 
 
@@ -475,7 +475,7 @@ Oder:
 - Diese Zentren sollten mit einem "Lagezentrum" (siehe Kommentar oben) zusammenarbeiten müssen, damit der Technologietransfer gegeben ist. 
 
 
-## Bundesministerium für Gesundheit
+## <a name="bmg"></a>Bundesministerium für Gesundheit
 
 Die Datenlage hat sich in den vergangenen Jahren wesentlich verbessert. Das Infektionsschutzgesetz wurde überarbeitet, die Regelungen zum Meldewesen nachgeschärft, die Aufgaben des Robert Koch-Instituts ausgeweitet, die Verpflichtung zur Daten-Erfassung präzisiert. Auch bei der Präsentation der Daten sind deutliche Verbesserungen erzielt worden (Pandemieradar, RKI-Berichte, öffentliche Daten des Divi-Registers…usw.):
 
@@ -507,7 +507,7 @@ Geplant ist außerdem:
 
 - Die Weiterentwicklung der Telemedizin. Bereits in den Jahren vor Beginn der Corona-Pandemie wurde die Anwendung verschiedener telemedizinischer Leistungen gesetzlich gestärkt (zum Beispiel die Vereinfachung der Durchführung von Videosprechstunden oder die Ausweitung von Telekonsilien). Die Nutzung der Videosprechstunde hat in Pandemiezeiten stark zugenommen. Die Entwicklung der Fallzahlen in den vergangenen Jahren verdeutlichen die Akzeptanz eines gezielten Einsatzes der Videosprechstunde in der vertragsärztlichen Versorgung. Der Koalitionsvertrag für die Jahre 2021-2025 sieht vor, dass auch in den kommenden Jahren telemedizinische Leistungen, inklusive Arznei-, Heil- und Hilfsmittelverordnungen sowie Videosprechstunden, Telekonsile, Telemonitoring und telenotärztliche Versorgung, regelhaft ermöglicht werden.
 
-## Bundesministerium für Digitales und Verkehr
+## <a name="bmdv"></a>Bundesministerium für Digitales und Verkehr
 
 Grundsätzlich zum Thema Daten:
 
@@ -523,7 +523,7 @@ Die Position des BMDV ist ganz klar: digital only. Das heißt, die ideale digita
 
 Zu den Projekten aus der Digitalstrategie der Bundesregierung für den Gesundheitsbereich finden Sie hier weitere Informationen: [https://digitalstrategie-deutschland.de/gesundheit-und-pflege/](https://digitalstrategie-deutschland.de/gesundheit-und-pflege/)
 
-## Ministerium für Gesundheit, Arbeit und Soziales Nordrhein-Westfalen
+## <a name="nrw"></a>Ministerium für Gesundheit, Arbeit und Soziales Nordrhein-Westfalen
 
 Eine Erkenntnis aus der Corona-Pandemie ist, dass in unterschiedlichen Phasen der Pandemie teilweise ganz unterschiedliche Daten- und Erkenntnisanforderungen relevant waren. Als Beispiel: In der Frühphase der Pandemie mit wenig vorhandener persönlicher Schutzausrüstung und einem noch nicht vorhandenen Impfschutz war es notwendig, die Datenerhebung in viel stärkerem Maße auf das Ziel der Unterbrechung von Infektionsketten auszurichten, als in einer späteren Phase unter den Bedingungen des mutierten Omikron-Virus. In dieser späteren Phase waren Fallzahlen im Vergleich zur Frühphase teilweise um den Faktor 50 erhöht, trafen jedoch glücklicherweise zugleich auf einen deutlich höheren Immunisierungsgrad in der Bevölkerung.
 
@@ -533,7 +533,7 @@ Für den konkreten Verantwortungsbereich des MAGS ist es hier unter anderem eine
 
 Auch künftige, noch nicht absehbare pandemische Herausforderungen werden u.U. ganz andere spezifische Fragestellungen und Informationsbedürfnisse in den Fokus rücken. Nur ein auf allen Ebenen personell, technisch und organisatorisch gut aufgestellter Öffentlicher Gesundheitsdienst kann dazu beitragen, flexibel und lageangepasst zu reagieren, eine solide Datenbasis für politische Entscheidungen zu generieren und dem Informationsbedürfnis von Presse und Öffentlichkeit Rechnung zu tragen.
 
-## Bayerisches Staatsministerium für Gesundheit und Pflege
+## <a name="bayern"></a>Bayerisches Staatsministerium für Gesundheit und Pflege
 
 **Wenn Sie eine Wunschliste schreiben könnten: Welche Daten würden Sie sich für die nächste Pandemie wünschen und warum?**
 
@@ -617,7 +617,7 @@ In Bayern wurden bereits zu Beginn mit den gemeldeten Infektionszahlen erste ver
 
 Erläutert wurden außerdem die Hintergründe für die in Bayern ergriffenen Maßnahmen sowohl in der Begründung zur Bayerischen Infektionsschutzmaßnahmenverordnung als auch in zahlreichen Pressemitteilungen, auf Pressekonferenzen sowie im Zusammenhang mit parlamentarischen Anfragen.
 
-## Gesundheitsamt Köln
+## <a name="koeln"></a>Gesundheitsamt Köln
 
 **Wenn Sie eine Wunschliste schreiben könnten: Welche Daten würden Sie sich für die nächste Pandemie wünschen und warum?**
 
@@ -681,7 +681,7 @@ Erläutert wurden außerdem die Hintergründe für die in Bayern ergriffenen Ma�
   - [https://link.springer.com/article/10.1007/s00103-022-03573-4](https://link.springer.com/article/10.1007/s00103-022-03573-4)
   - [https://stadt-koeln.maps.arcgis.com/apps/webappviewer/index.html?id=515374f75b2f4c08bbf73e05ae1239e8](https://stadt-koeln.maps.arcgis.com/apps/webappviewer/index.html?id=515374f75b2f4c08bbf73e05ae1239e8)
 
-## Gesundheitsreferat der Stadt München
+## <a name="muenchen"></a>Gesundheitsreferat der Stadt München
 
 **Wenn Sie eine Wunschliste schreiben könnten: Welche Daten würden Sie sich für die nächste Pandemie wünschen und warum?**
 
@@ -725,7 +725,7 @@ Schon frühzeitig wurden Stichproben aus dem vorhandenen Abstrich-Probenmaterial
 
 Es liegt in der Natur der Sache, dass insbesondere am Beginn der Pandemie kaum, im Verlauf aber immer mehr belastbare epidemiologische Daten und Informationen vorliegen. Nach Einschätzung des GSR wurden alle Zahlen erfasst, die zum Management der Pandemie notwendig sind. Auch für zukünftige Pandemien werden die Datenerhebungen und Erkenntnisse im Verlauf zunehmend spezifischer für betroffene Bevölkerungsgruppen darstellbar sein.
 
-## Robert-Koch-Institut
+## <a name="rki"></a>Robert-Koch-Institut
 
 Zunächst: Die Datengrundlage zur epidemischen Lage war und ist während der COVID-19-Pandemie in Deutschland ausreichend, um die jeweils aktuelle Situation und Entwicklungen zu bewerten. Dank multipler Surveillancesysteme - die teils international als Referenz betrachtet werden - lagen und liegen detailliert, zeitnah und kleinräumig Informationen zur Transmission, Schwere und auch Impakt des Ereignisses vor. Beispiele für bereits etablierte, aber auch neu aufgebaute Instrumente sind: Meldewesen gemäß IfSG, syndromische Surveillanceinstrumente (GrippeWeb, Arbeitsgemeinschaft Influenza, ICOSARI), virologische Surveillance, Intensivregister, Testzahlerfassung, molekulare Surveillance, Laborsurveillance (SARS aus ARS), Abwassersurveillance, Impfquotenmonitoring, Inanspruchnahme von Mortalitätssurveillance und einige mehr. Diese Instrumente liefern - trotz jeweils bestehender Limitationen - in der Gesamtschau zeitnah eine solide Basis für Entscheidungen in der Pandemie.
 
@@ -735,7 +735,7 @@ Aus Sicht des RKI müssen die Erfahrungen aus der Pandemie umfassend ausgewertet
 
 Zu einem gewissen Grad wird es allerdings auch in künftigen Krisen unvermeidbar sein, dass zuweilen kurzfristig notwendige Entscheidungen auf Basis unsicherer Datenlage getroffen werden müssen. Eine einhundertprozentige sichere und in allen relevanten Aspekten vollständige Datenlage kann nicht erreicht werden, erst recht nicht beim Auftreten eines neuartigen Erregers.
 
-## Science Media Center
+## <a name="smc"></a>Science Media Center
 
 **Wenn Sie eine Wunschliste schreiben könnten: Welche Daten würden Sie sich für die nächste Pandemie wünschen und warum?**
 
