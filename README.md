@@ -31,136 +31,136 @@ Die _Süddeutsche Zeitung_ hat für den Wunschzettel für die nächste Pandemie 
 # <a name="wunschliste"></a>Wunschliste in Stichpunkten
 
 1. Digitale Meldekette vom Kindergarten bis zur Rechtsmedizin
-  1. Alle Prozesse, von der Datenerfassung bis zur zentralen Auswertung müssen digital ablaufen
-  2. Digital only
-  3. Bundesministerium für Digitalisierung und Verkehr: „Die Position des BMDV ist ganz klar: digital only. Das heißt, die ideale digitale Datenerfassung ist wirklich digital – von Anfang bis Ende. Es darf keine Medienbrüche geben, wie wir sie zum Teil heute noch sehen – etwa wenn ein Dokument eingescannt und per E-Mail weitergesendet wird. Wir brauchen standardisierte Prozesse, die voll digitalisiert sind.
-  4. [Einheitliche Meldesoftware DEMIS](https://www.rki.de/DE/Content/Infekt/IfSG/DEMIS/DEMIS_node.html): ist schon sehr umfangreich, müsste weiter ausgebaut werden, z.B. Kontaktpersonennachverfolgung integrieren; noch nicht flächendeckend eingeführt, weitere Meldepflichtige sollen aber integriert werden
-  5. Digitale Datenerfassung ist mittlerweile in vielen Bereichen verpflichtend
-  6. Divi-Intensivregister wird häufig als beispielhaft genannt
-  7. Kommunen sollten Zugriff auf steuerungsrelevante Daten haben
-  8. Informationen nicht nur zur Infektion, sondern auch zum Krankheitsverlauf, möglichen Komplikationen im Krankenhaus und im schlimmsten Fall zur Frage, ob Menschen mit oder an einer Erkrankung gestorben sind.
-  9. Eine Engstelle war häufig die Fallerfassung in Gesundheitsämtern, Laboren und Arztpraxen. Sie müssen bei der Digitalisierung ihrer Prozesse unterstützt werden.
-  10. Ulrike Protzer: „Dass wir ein Verbesserungspotenzial in puncto Digitalisierung in Deutschland haben, ist glaube ich kein Geheimnis mehr. Nur wenn ich eine Digitalisierung bis in die Bereiche der Gesundheitsämter hinein habe, kann ich Daten auch zentral auswerten. Da gibt es im Gesundheitsbereich auf jeden Fall enormes Verbesserungspotenzial."
-  11. Gesundheitsreferat München: „Als perfekt zu bezeichnen wäre die digitale Meldekette vom Meldenden über die Kreis- und Landes- bis zu den Bundesstellen durch Demis oder vergleichbare Übermittlungssysteme. So könnten durch Zusatzmodule alle weiteren notwendigen Pandemiedaten eingespeist werden, da die Zugriffsberechtigungen für die jeweils bearbeitende Behörde exakt eingerichtet werden können."
-  12. Staatsministerium für Gesundheit Bayern: „Insbesondere zur Entlastung der Krankenhäuser macht sich das StMGP zudem auch weiterhin für die Vereinheitlichung und Vereinfachung der genannten Meldewege stark. Bereits im Jahr 2020 wurde die Schaffung einer Schnittstelle zwischen IVENA und DIVI seitens verschiedener Bundesländer - darunter auch Bayern - angestrebt, was bislang allerdings erfolglos blieb. Das StMGP forderte das Bundesgesundheitsministerium zudem wiederholt zu einer zeitnahen und vollfunktionsfähigen Anbindung der Krankenhäuser an das Melde- und Informationssystem DEMIS auf, sodass ein technisch reibungsloser und automatisierter Ablauf bei der Abgabe von Meldungen gewährleistet werden kann."
+    1. Alle Prozesse, von der Datenerfassung bis zur zentralen Auswertung müssen digital ablaufen
+    2. Digital only
+    3. Bundesministerium für Digitalisierung und Verkehr: „Die Position des BMDV ist ganz klar: digital only. Das heißt, die ideale digitale Datenerfassung ist wirklich digital – von Anfang bis Ende. Es darf keine Medienbrüche geben, wie wir sie zum Teil heute noch sehen – etwa wenn ein Dokument eingescannt und per E-Mail weitergesendet wird. Wir brauchen standardisierte Prozesse, die voll digitalisiert sind.
+    4. [Einheitliche Meldesoftware DEMIS](https://www.rki.de/DE/Content/Infekt/IfSG/DEMIS/DEMIS_node.html): ist schon sehr umfangreich, müsste weiter ausgebaut werden, z.B. Kontaktpersonennachverfolgung integrieren; noch nicht flächendeckend eingeführt, weitere Meldepflichtige sollen aber integriert werden
+    5. Digitale Datenerfassung ist mittlerweile in vielen Bereichen verpflichtend
+    6. Divi-Intensivregister wird häufig als beispielhaft genannt
+    7. Kommunen sollten Zugriff auf steuerungsrelevante Daten haben
+    8. Informationen nicht nur zur Infektion, sondern auch zum Krankheitsverlauf, möglichen Komplikationen im Krankenhaus und im schlimmsten Fall zur Frage, ob Menschen mit oder an einer Erkrankung gestorben sind.
+    9. Eine Engstelle war häufig die Fallerfassung in Gesundheitsämtern, Laboren und Arztpraxen. Sie müssen bei der Digitalisierung ihrer Prozesse unterstützt werden.
+    10. Ulrike Protzer: „Dass wir ein Verbesserungspotenzial in puncto Digitalisierung in Deutschland haben, ist glaube ich kein Geheimnis mehr. Nur wenn ich eine Digitalisierung bis in die Bereiche der Gesundheitsämter hinein habe, kann ich Daten auch zentral auswerten. Da gibt es im Gesundheitsbereich auf jeden Fall enormes Verbesserungspotenzial."
+    11. Gesundheitsreferat München: „Als perfekt zu bezeichnen wäre die digitale Meldekette vom Meldenden über die Kreis- und Landes- bis zu den Bundesstellen durch Demis oder vergleichbare Übermittlungssysteme. So könnten durch Zusatzmodule alle weiteren notwendigen Pandemiedaten eingespeist werden, da die Zugriffsberechtigungen für die jeweils bearbeitende Behörde exakt eingerichtet werden können."
+    12. Staatsministerium für Gesundheit Bayern: „Insbesondere zur Entlastung der Krankenhäuser macht sich das StMGP zudem auch weiterhin für die Vereinheitlichung und Vereinfachung der genannten Meldewege stark. Bereits im Jahr 2020 wurde die Schaffung einer Schnittstelle zwischen IVENA und DIVI seitens verschiedener Bundesländer - darunter auch Bayern - angestrebt, was bislang allerdings erfolglos blieb. Das StMGP forderte das Bundesgesundheitsministerium zudem wiederholt zu einer zeitnahen und vollfunktionsfähigen Anbindung der Krankenhäuser an das Melde- und Informationssystem DEMIS auf, sodass ein technisch reibungsloser und automatisierter Ablauf bei der Abgabe von Meldungen gewährleistet werden kann."
 2. Daten zentral sammeln und international austauschen
-  1. Einheitliche digitale Lösungen für alle Kommunen
-  2. Bundesweit, für alle Akteure und schnell skalierbar
-  3. In Demis sollten weitere Akteure integriert werden und Schnittstellen geschaffen werden.
-  4. Wunsch nach bundesweit gesteuerter Datensammlung, Dateninstitut, Aggregation, Aufgabe wird ganz klar dem Bund zugeschrieben
-  5. Gesundheitsamt Köln: „Die Realisierung ist Aufgabe des Bundes. Die Umsetzung müsste zentral gesteuert werden, es darf keine landesspezifischen Lösungen geben."
-  6. Gesundheitsamt Köln: „Es sollte eine bundesweit gesteuerte Softwarelösung geben, für alle Kommunen sollte eine Gratissoftware angeboten werden, mit definierten Protokollen und vorhandenen Schnittstellen für föderale Eigenlösungen der großen Kommunen."
-  7. Gesundheitsamt Köln: „Durch die nicht schnell genug angebotene Softwarelösung in der Pandemie gab es viele kommunale Eigenlösungen, sodass Daten kommunal vorhanden waren, jedoch nicht an das RKI weitergeleitet wurden – die einfachen Schnittstellen fehlten."
-  8. Daten müssen trotzdem regional erhoben werden, dezentral
-  9. Staatsministerium für Gesundheit Bayern: „Eine regionale Erhebung von Daten ist an vielen Stellen essenziell. Die Gesundheitsämter bewerten die gemeldeten Daten, fassen gegebenenfalls nach und ergreifen Maßnahmen auf lokaler Ebene. Dies wäre überregional so nicht leistbar."
-  10. Science Media Center: „Dass Daten dezentral gesammelt werden müssen, liegt der in der Sache selbst begründet, aber die digitale Weitergabe, Aggregation und Auswertung der regionalen Daten müsste in Deutschland über die verschiedenen Akteure hinweg ermöglicht werden."
-  11. Viele Daten werden erhoben, aber nicht zusammengeführt
-  12. Das geht nur mit einheitlichen Standards und Software, klaren Definitionen, dann können Daten harmonisiert werden; definierte Datenschnittstellen (API's)
-  13. Staatsministerium für Gesundheit Bayern: „Nicht etwa die hierarchische Struktur, sondern die Einheitlichkeit im Datenstandard und gegebenenfalls in der eingesetzten Software macht die Meldekaskade problemlos. Insbesondere die neue Meldesoftware Demis des RKI kann hier die notwendige Vereinheitlichung gewährleisten, sofern sie nicht nur den Meldeweg, sondern auch die meldeassoziierten Prozesse vor Ort (zum Beispiel Kontaktpersonennachverfolgung) integriert."
-  14. Problematisch waren z.B. unterschiedliche Altersintervalle, eigentlich müssen Daten so gut wie möglich regional und nach Alter aufgeschlüsselt werden
-  15. Kommunen, Wissenschaft und andere Akteure müssen bei berechtigtem Interesse einfachen Zugang zu verknüpften/harmonisierten Daten bekommen
-  16. Daten sollten automatisch in einer zentralen Datenbank zusammengeführt und aufbereitet werden
-  17. Es braucht klare Zuständigkeiten und gesetzliche Vorgaben
-  18. Systematische Tests nutzen, Daten zusammenführen
-  19. Doppelstrukturen vermeiden
-  20. Föderales System ermöglicht zielgerichtete Maßnahmenpakete
-  21. Damit Daten international ausgetauscht werden können, müssen sie einheitlich erfasst werden
-  22. Europäischer Gesundheitsdatenraum
-  23. Transparenz ermöglicht Forschung, schafft Vertrauen, ermöglicht abgestimmte Handlungen
-  24. Noch mehr offene Daten, vieles hat sich schon verbessert: RKI auf Github, Divi-Intensivregister, Pandemieradar, Open Data Team des RKI will alle Metadaten öffentlich durchsuchbar machen
-  25. Viola Priesemann: „Wenn Daten öffentlich zugänglich sind, dann gibt es auch Leute, die diese Daten wirklich nutzen. Das halte ich für extrem hilfreich, da diese Transparenz Ressourcen mobilisiert, die gerade in der Krise extrem hilfreich sind. Ich halte es für absolut essenziell, die Datengrundlage so öffentlich wie möglich zu machen, damit jede Person, jede Wissenschaftlerin, aber auch Laien beitragen können."
-  26. Maschinenlesbare Daten
-  27. Krankheitserreger kennen keine Grenzen, internationale Kommunikation und Koordination notwendig
-  28. Ergebnisse von Modellierungsgruppen zentral sammeln und vergleichbar machen -\> interdisziplinäre Modellierungsplattform
-  29. Viola Priesemann: „Wir sollten europäisch denken. Wir denken zumeist nur Deutschland, Deutschland, Deutschland. Aber wir müssten die Daten eigentlich europäisch harmonisieren."
+    1. Einheitliche digitale Lösungen für alle Kommunen
+    2. Bundesweit, für alle Akteure und schnell skalierbar
+    3. In Demis sollten weitere Akteure integriert werden und Schnittstellen geschaffen werden.
+    4. Wunsch nach bundesweit gesteuerter Datensammlung, Dateninstitut, Aggregation, Aufgabe wird ganz klar dem Bund zugeschrieben
+    5. Gesundheitsamt Köln: „Die Realisierung ist Aufgabe des Bundes. Die Umsetzung müsste zentral gesteuert werden, es darf keine landesspezifischen Lösungen geben."
+    6. Gesundheitsamt Köln: „Es sollte eine bundesweit gesteuerte Softwarelösung geben, für alle Kommunen sollte eine Gratissoftware angeboten werden, mit definierten Protokollen und vorhandenen Schnittstellen für föderale Eigenlösungen der großen Kommunen."
+    7. Gesundheitsamt Köln: „Durch die nicht schnell genug angebotene Softwarelösung in der Pandemie gab es viele kommunale Eigenlösungen, sodass Daten kommunal vorhanden waren, jedoch nicht an das RKI weitergeleitet wurden – die einfachen Schnittstellen fehlten."
+    8. Daten müssen trotzdem regional erhoben werden, dezentral
+    9. Staatsministerium für Gesundheit Bayern: „Eine regionale Erhebung von Daten ist an vielen Stellen essenziell. Die Gesundheitsämter bewerten die gemeldeten Daten, fassen gegebenenfalls nach und ergreifen Maßnahmen auf lokaler Ebene. Dies wäre überregional so nicht leistbar."
+    10. Science Media Center: „Dass Daten dezentral gesammelt werden müssen, liegt der in der Sache selbst begründet, aber die digitale Weitergabe, Aggregation und Auswertung der regionalen Daten müsste in Deutschland über die verschiedenen Akteure hinweg ermöglicht werden."
+    11. Viele Daten werden erhoben, aber nicht zusammengeführt
+    12. Das geht nur mit einheitlichen Standards und Software, klaren Definitionen, dann können Daten harmonisiert werden; definierte Datenschnittstellen (API's)
+    13. Staatsministerium für Gesundheit Bayern: „Nicht etwa die hierarchische Struktur, sondern die Einheitlichkeit im Datenstandard und gegebenenfalls in der eingesetzten Software macht die Meldekaskade problemlos. Insbesondere die neue Meldesoftware Demis des RKI kann hier die notwendige Vereinheitlichung gewährleisten, sofern sie nicht nur den Meldeweg, sondern auch die meldeassoziierten Prozesse vor Ort (zum Beispiel Kontaktpersonennachverfolgung) integriert."
+    14. Problematisch waren z.B. unterschiedliche Altersintervalle, eigentlich müssen Daten so gut wie möglich regional und nach Alter aufgeschlüsselt werden
+    15. Kommunen, Wissenschaft und andere Akteure müssen bei berechtigtem Interesse einfachen Zugang zu verknüpften/harmonisierten Daten bekommen
+    16. Daten sollten automatisch in einer zentralen Datenbank zusammengeführt und aufbereitet werden
+    17. Es braucht klare Zuständigkeiten und gesetzliche Vorgaben
+    18. Systematische Tests nutzen, Daten zusammenführen
+    19. Doppelstrukturen vermeiden
+    20. Föderales System ermöglicht zielgerichtete Maßnahmenpakete
+    21. Damit Daten international ausgetauscht werden können, müssen sie einheitlich erfasst werden
+    22. Europäischer Gesundheitsdatenraum
+    23. Transparenz ermöglicht Forschung, schafft Vertrauen, ermöglicht abgestimmte Handlungen
+    24. Noch mehr offene Daten, vieles hat sich schon verbessert: RKI auf Github, Divi-Intensivregister, Pandemieradar, Open Data Team des RKI will alle Metadaten öffentlich durchsuchbar machen
+    25. Viola Priesemann: „Wenn Daten öffentlich zugänglich sind, dann gibt es auch Leute, die diese Daten wirklich nutzen. Das halte ich für extrem hilfreich, da diese Transparenz Ressourcen mobilisiert, die gerade in der Krise extrem hilfreich sind. Ich halte es für absolut essenziell, die Datengrundlage so öffentlich wie möglich zu machen, damit jede Person, jede Wissenschaftlerin, aber auch Laien beitragen können."
+    26. Maschinenlesbare Daten
+    27. Krankheitserreger kennen keine Grenzen, internationale Kommunikation und Koordination notwendig
+    28. Ergebnisse von Modellierungsgruppen zentral sammeln und vergleichbar machen -\> interdisziplinäre Modellierungsplattform
+    29. Viola Priesemann: „Wir sollten europäisch denken. Wir denken zumeist nur Deutschland, Deutschland, Deutschland. Aber wir müssten die Daten eigentlich europäisch harmonisieren."
 3. Stichprobe der Bevölkerung testen und befragen
-  1. Zufallsstichprobe/Seroprävalenzstudie
-  2. Bevölkerungspanel: laut RKI sollen ungefähr 100 000 Menschen regelmäßig zu ihrem Gesundheitszustand befragt werden
-  3. Symptomunabhängig testen
-  4. Bundesweite Stichprobe mit der Möglichkeit lokaler Auswertung
-  5. REACT bzw. Coronavirus Infection Survey in Großbritannien als Vorbild
-  6. Man muss nicht zu perfektionistisch herangehen
-  7. Reine Zufallsstichprobe zu fehleranfällig, besser gezielte Stichprobe mit konkreter Fragestellung
-  8. Stichproben in der Covid-19-Pandemie waren zu spät und zu fragmentiert
-  9. Kann aussagekräftige Informationen liefern zu Ausbreitung eines Erregers in der Bevölkerung, Krankheitsschwere, regionalen Unterschieden, Altersgruppen, Wirkung von Impfungen und Maßnahmen, psychosozialen Folgen
-  10. Gesundheitsreferat München: „Zufallsstichproben sind häufig fehleranfällig, was bereits mit der Rekrutierung der Probanden beginnt. Daher halten wir gezielte Stichproben mit einer konkreten Fragestellung für geeigneter. Daten, die ursprünglich zu einem anderen Zweck gewonnen wurden, dürfen nicht auf neue Fragestellungen übertragen werden, da dies zu Fehlinformationen führen kann."
+    1. Zufallsstichprobe/Seroprävalenzstudie
+    2. Bevölkerungspanel: laut RKI sollen ungefähr 100 000 Menschen regelmäßig zu ihrem Gesundheitszustand befragt werden
+    3. Symptomunabhängig testen
+    4. Bundesweite Stichprobe mit der Möglichkeit lokaler Auswertung
+    5. REACT bzw. Coronavirus Infection Survey in Großbritannien als Vorbild
+    6. Man muss nicht zu perfektionistisch herangehen
+    7. Reine Zufallsstichprobe zu fehleranfällig, besser gezielte Stichprobe mit konkreter Fragestellung
+    8. Stichproben in der Covid-19-Pandemie waren zu spät und zu fragmentiert
+    9. Kann aussagekräftige Informationen liefern zu Ausbreitung eines Erregers in der Bevölkerung, Krankheitsschwere, regionalen Unterschieden, Altersgruppen, Wirkung von Impfungen und Maßnahmen, psychosozialen Folgen
+    10. Gesundheitsreferat München: „Zufallsstichproben sind häufig fehleranfällig, was bereits mit der Rekrutierung der Probanden beginnt. Daher halten wir gezielte Stichproben mit einer konkreten Fragestellung für geeigneter. Daten, die ursprünglich zu einem anderen Zweck gewonnen wurden, dürfen nicht auf neue Fragestellungen übertragen werden, da dies zu Fehlinformationen führen kann."
 4. Gesundheitsdaten digital verknüpfen
-  1. Elektronische Gesundheitsdaten verknüpfen
-  2. Routinedaten der Krankenkassen
-  3. Versorgungsdaten
-  4. Einheitliche [elektronische Patientenakte](https://www.bundesgesundheitsministerium.de/elektronische-patientenakte.html): [https://www.sueddeutsche.de/politik/elektronische-patientenakte-lauterbach-folgen-patienten-1.5766003](https://www.sueddeutsche.de/politik/elektronische-patientenakte-lauterbach-folgen-patienten-1.5766003)
-  5. Digitalisiertes Gesundheitssystem
-  6. Peter Klimek: „Gerade im deutschsprachigen Raum und in Deutschland im Speziellen hinkt man bei der Digitalisierung im Gesundheitswesen hinterher. Die starke föderale Fragmentation ist hier ein Hemmschuh." -\> European Health Data Space sei hier ein Digitalisierungsschub, den unsere Gesundheitssysteme brauchen
-  7. Falldaten sollten mit anderen Informationen zum Gesundheitszustand der Patient\*innen verknüpfbar sein, z.B. Impfstatus, Vorerkrankungen, digitale Kontaktdaten für das Gesundheitsamt
-  8. Nachverfolgung der Spätfolgen einer Infektion
-  9. Verlauf nach Erkrankung
-  10. Behandlungspfade von Patienten, Patient\*innen-Plattform
-  11. Science Media Center: „Auch Daten zum Verlauf nach Erkrankung wären wünschenswert, etwa Versorgungsdaten der Krankenkassen, die es erlauben, Behandlungspfade von Patienten im Gesundheitssystem zu verfolgen."
-  12. Meldungen zu Kapazitäten im Gesundheitssystem, Pflegepersonal, betreibbare Betten
-  13. Niedrigschwelliger Zugang sollte für Forschungsdatensatz möglich sein
-  14. Wöchentliche Sterbefalldaten sollten aus Sonderstatus raus
-  15. Weniger Bedenken beim Datenschutz
-    1. Anonymisierung häufig möglich, Datenschutz als vorgeschobenes Argument
-    2. Datennutzung und Datenschutz sollte besser abgewogen werden
-    3. Digitalisierungsstrategie wird derzeit erarbeitet
-    4. Häufig sehr defensive Haltung von Behörden, Krankenhäusern
-    5. Viele Daten für gute Forschung notwendig
-    6. Berechtigten Zugriff prüfen
-    7. Viola Priesemann: „Das ist in Deutschland ein Knackpunkt. Wir wollen beides, wir wollen die Daten nutzen und wir wollen gleichzeitig die Anonymität garantieren. Wenn wir in Deutschland da eine gute Lösung entwickeln, könnte das ein Exportschlager werden."
-    8. Ulrike Protzer: „Es ist wichtig, wie der Datenschutz interpretiert wird. Da sind wir in Deutschland sehr vorsichtig. Es gibt sicherlich moderne Wege, wie man auch unter dem Schutz persönlicher Informationen Daten austauschen kann. In Deutschland sind wir immer mit einem doppelten Sicherheitsgedanken unterwegs, der blockiert dann natürlich einfach Dinge."
-    9. Staatsministerium für Gesundheit Bayern: „Nach den steten Vorgaben insbesondere des deutschen Datenschutzes ist eine Datenerhebung nur unter engen Voraussetzungen möglich, Gesundheitsdaten des Einzelnen stehen dabei unter besonderem Schutz. Das Persönlichkeitsrecht der von der Pandemie betroffenen Menschen setzt der Datenerhebung Grenzen."
+    1. Elektronische Gesundheitsdaten verknüpfen
+    2. Routinedaten der Krankenkassen
+    3. Versorgungsdaten
+    4. Einheitliche [elektronische Patientenakte](https://www.bundesgesundheitsministerium.de/elektronische-patientenakte.html): [https://www.sueddeutsche.de/politik/elektronische-patientenakte-lauterbach-folgen-patienten-1.5766003](https://www.sueddeutsche.de/politik/elektronische-patientenakte-lauterbach-folgen-patienten-1.5766003)
+    5. Digitalisiertes Gesundheitssystem
+    6. Peter Klimek: „Gerade im deutschsprachigen Raum und in Deutschland im Speziellen hinkt man bei der Digitalisierung im Gesundheitswesen hinterher. Die starke föderale Fragmentation ist hier ein Hemmschuh." -\> European Health Data Space sei hier ein Digitalisierungsschub, den unsere Gesundheitssysteme brauchen
+    7. Falldaten sollten mit anderen Informationen zum Gesundheitszustand der Patient\*innen verknüpfbar sein, z.B. Impfstatus, Vorerkrankungen, digitale Kontaktdaten für das Gesundheitsamt
+    8. Nachverfolgung der Spätfolgen einer Infektion
+    9. Verlauf nach Erkrankung
+    10. Behandlungspfade von Patienten, Patient\*innen-Plattform
+    11. Science Media Center: „Auch Daten zum Verlauf nach Erkrankung wären wünschenswert, etwa Versorgungsdaten der Krankenkassen, die es erlauben, Behandlungspfade von Patienten im Gesundheitssystem zu verfolgen."
+    12. Meldungen zu Kapazitäten im Gesundheitssystem, Pflegepersonal, betreibbare Betten
+    13. Niedrigschwelliger Zugang sollte für Forschungsdatensatz möglich sein
+    14. Wöchentliche Sterbefalldaten sollten aus Sonderstatus raus
+    15. Weniger Bedenken beim Datenschutz
+      - Anonymisierung häufig möglich, Datenschutz als vorgeschobenes Argument
+      - Datennutzung und Datenschutz sollte besser abgewogen werden
+      - Digitalisierungsstrategie wird derzeit erarbeitet
+      - Häufig sehr defensive Haltung von Behörden, Krankenhäusern
+      - Viele Daten für gute Forschung notwendig
+      - Berechtigten Zugriff prüfen
+      - Viola Priesemann: „Das ist in Deutschland ein Knackpunkt. Wir wollen beides, wir wollen die Daten nutzen und wir wollen gleichzeitig die Anonymität garantieren. Wenn wir in Deutschland da eine gute Lösung entwickeln, könnte das ein Exportschlager werden."
+      - Ulrike Protzer: „Es ist wichtig, wie der Datenschutz interpretiert wird. Da sind wir in Deutschland sehr vorsichtig. Es gibt sicherlich moderne Wege, wie man auch unter dem Schutz persönlicher Informationen Daten austauschen kann. In Deutschland sind wir immer mit einem doppelten Sicherheitsgedanken unterwegs, der blockiert dann natürlich einfach Dinge."
+      - Staatsministerium für Gesundheit Bayern: „Nach den steten Vorgaben insbesondere des deutschen Datenschutzes ist eine Datenerhebung nur unter engen Voraussetzungen möglich, Gesundheitsdaten des Einzelnen stehen dabei unter besonderem Schutz. Das Persönlichkeitsrecht der von der Pandemie betroffenen Menschen setzt der Datenerhebung Grenzen."
 5. Risikogruppen finden, Maßnahmen anpassen
-  1. Sozio-ökonomische Informationen
-  2. Bevölkerungsbezogene Beobachtungsdaten
-  3. Kleinräumige Datenanalysen ermöglichen, um Risikogruppen erkennen zu können
-  4. Gesellschaftliche und soziale Auswirkungen erforschen: Krankenstände in kritische Infrastruktur, psychosoziale Folgen, Einstellungen in der Bevölkerung
-  5. Stark betroffene Bevölkerungsgruppen gezielt ansprechen, Kommunikation anpassen
-  6. Clusterrandomisierte Interventionsstudien: Unsicherheit nutzen, heterogene Landkreise nutzen, unterschiedliche Maßnahmen ausprobieren und Wirksamkeit erforschen
-  7. Dafür müssen die Daten möglichst genau nach Region oder sogar Stadtteilen und Alter aufgeschlüsselt werden
-  8. Jonas Schöley: „Daten sollten, wo immer möglich, mindestens nach Region und Alter aufgeschlüsselt bereitgestellt werden. Je detaillierter die Regionen und Altersgruppen, desto besser. Infektionskrankheiten treten in räumlichen Clustern und in bestimmten Altersgruppen auf. Demgegenüber dürfen wir nicht blind sein."
-  9. Ansteckungsorte erfassen und auswerten: Auswirkung von Maßnahmen erkennen, Akzeptanz für politische Entscheidungen stärken, lokal haben Gesundheitsämter diese Information eigentlich auch abgefragt, aber keine ausreichende Erfassung
-  10. Viola Priesemann: "Den Ansteckungsort zu kennen, hätte uns sehr geholfen, besser zu verstehen, wann und unter welchen Umständen wir welches Risiko an welchen Orten haben. Es geht mir als Modelliererin nicht darum zu sagen, dass wir das ein oder andere schließen müssen, sondern mir geht es vor allem darum zu sagen, was wieviel zur Ausbreitung beiträgt."
-  11. Kontaktverhalten der Bevölkerung untersuchen; Mobilitätsdaten aus Mobilfunk reichen beispielsweise nicht, um etwa Kontakte in Altersheimen zu erfassen.
+    1. Sozio-ökonomische Informationen
+    2. Bevölkerungsbezogene Beobachtungsdaten
+    3. Kleinräumige Datenanalysen ermöglichen, um Risikogruppen erkennen zu können
+    4. Gesellschaftliche und soziale Auswirkungen erforschen: Krankenstände in kritische Infrastruktur, psychosoziale Folgen, Einstellungen in der Bevölkerung
+    5. Stark betroffene Bevölkerungsgruppen gezielt ansprechen, Kommunikation anpassen
+    6. Clusterrandomisierte Interventionsstudien: Unsicherheit nutzen, heterogene Landkreise nutzen, unterschiedliche Maßnahmen ausprobieren und Wirksamkeit erforschen
+    7. Dafür müssen die Daten möglichst genau nach Region oder sogar Stadtteilen und Alter aufgeschlüsselt werden
+    8. Jonas Schöley: „Daten sollten, wo immer möglich, mindestens nach Region und Alter aufgeschlüsselt bereitgestellt werden. Je detaillierter die Regionen und Altersgruppen, desto besser. Infektionskrankheiten treten in räumlichen Clustern und in bestimmten Altersgruppen auf. Demgegenüber dürfen wir nicht blind sein."
+    9. Ansteckungsorte erfassen und auswerten: Auswirkung von Maßnahmen erkennen, Akzeptanz für politische Entscheidungen stärken, lokal haben Gesundheitsämter diese Information eigentlich auch abgefragt, aber keine ausreichende Erfassung
+    10. Viola Priesemann: "Den Ansteckungsort zu kennen, hätte uns sehr geholfen, besser zu verstehen, wann und unter welchen Umständen wir welches Risiko an welchen Orten haben. Es geht mir als Modelliererin nicht darum zu sagen, dass wir das ein oder andere schließen müssen, sondern mir geht es vor allem darum zu sagen, was wieviel zur Ausbreitung beiträgt."
+    11. Kontaktverhalten der Bevölkerung untersuchen; Mobilitätsdaten aus Mobilfunk reichen beispielsweise nicht, um etwa Kontakte in Altersheimen zu erfassen.
 6. Geschwindigkeit vor Perfektion
-  1. Auch mit nicht perfekten Daten sind Abschätzungen möglich. Die Daten müssen dafür aber vorliegen.
-  2. Geschwindigkeit und Qualität schließen sich nicht gegenseitig aus.
-  3. Peter Klimek: „Eine der Lehren ist, dass hier Geschwindigkeit und Qualität sehr wichtig sind. Entscheidungen müssen oft unter sehr hohem Zeitdruck gemacht werden. Die Verknüpfungen müssen daher auf Knopfdruck durchführbar sein, wenn man hier auf Analysen ein paar Wochen warten muss, sind die Informationen für das Pandemiemanagement untauglich."
-  4. Schnelle Datenerfassung und Auswertung, ausgeruhte Kommunikation
-  5. Schnellere Daten durch digitale Meldekette
-  6. Besser kommunizieren "hier sind die Daten und das sind die Unsicherheiten" als "das wissen wir nicht, es gibt keine Daten"
-  7. Je genauer epidemiologische Informationen zur Verfügung stehen, desto besser können auch Modelle mögliche Szenarien abbilden.
-  8. Datengetriebene und evidenzbasierte Steuerung einer Pandemie geht nur mit aktuellen Daten, auch wenn sie nicht perfekt sind. Bessere Daten mit zeitlicher Verzögerung helfen nicht dabei, eine Pandemie zu steuern, in der häufig sehr schnelle Entscheidungen getroffen werden müssen.
-  9. Aktuell modellierte Szenarien und Prognosen können Entscheidungshilfe sein.
-  10. RKI: „Zu einem gewissen Grad wird es allerdings auch in künftigen Krisen unvermeidbar sein, dass zuweilen kurzfristig notwendige Entscheidungen auf Basis unsicherer Datenlage getroffen werden müssen. Eine einhundertprozentig sichere und in allen Aspekten vollständige Datenlage kann nicht erreicht werden, erst recht nicht beim Auftreten eines neuartigen Erregers."
-  11. Staatsministerium für Gesundheit Bayern: „Die Publikation wissenschaftlicher Erkenntnisse beruht auf evidenzbasierten, umfassenden Forschungen, die notwendigerweise erheblichen Vorlauf benötigen, und findet daher stets erst zeitverzögert statt. Diese Erkenntnisse stehen in infektiologischen Krisensituationen, in welchen schnelle Entscheidungen und präventive Empfehlungen erforderlich sind, leider oft nicht frühzeitig zur Verfügung."
+    1. Auch mit nicht perfekten Daten sind Abschätzungen möglich. Die Daten müssen dafür aber vorliegen.
+    2. Geschwindigkeit und Qualität schließen sich nicht gegenseitig aus.
+    3. Peter Klimek: „Eine der Lehren ist, dass hier Geschwindigkeit und Qualität sehr wichtig sind. Entscheidungen müssen oft unter sehr hohem Zeitdruck gemacht werden. Die Verknüpfungen müssen daher auf Knopfdruck durchführbar sein, wenn man hier auf Analysen ein paar Wochen warten muss, sind die Informationen für das Pandemiemanagement untauglich."
+    4. Schnelle Datenerfassung und Auswertung, ausgeruhte Kommunikation
+    5. Schnellere Daten durch digitale Meldekette
+    6. Besser kommunizieren "hier sind die Daten und das sind die Unsicherheiten" als "das wissen wir nicht, es gibt keine Daten"
+    7. Je genauer epidemiologische Informationen zur Verfügung stehen, desto besser können auch Modelle mögliche Szenarien abbilden.
+    8. Datengetriebene und evidenzbasierte Steuerung einer Pandemie geht nur mit aktuellen Daten, auch wenn sie nicht perfekt sind. Bessere Daten mit zeitlicher Verzögerung helfen nicht dabei, eine Pandemie zu steuern, in der häufig sehr schnelle Entscheidungen getroffen werden müssen.
+    9. Aktuell modellierte Szenarien und Prognosen können Entscheidungshilfe sein.
+    10. RKI: „Zu einem gewissen Grad wird es allerdings auch in künftigen Krisen unvermeidbar sein, dass zuweilen kurzfristig notwendige Entscheidungen auf Basis unsicherer Datenlage getroffen werden müssen. Eine einhundertprozentig sichere und in allen Aspekten vollständige Datenlage kann nicht erreicht werden, erst recht nicht beim Auftreten eines neuartigen Erregers."
+    11. Staatsministerium für Gesundheit Bayern: „Die Publikation wissenschaftlicher Erkenntnisse beruht auf evidenzbasierten, umfassenden Forschungen, die notwendigerweise erheblichen Vorlauf benötigen, und findet daher stets erst zeitverzögert statt. Diese Erkenntnisse stehen in infektiologischen Krisensituationen, in welchen schnelle Entscheidungen und präventive Empfehlungen erforderlich sind, leider oft nicht frühzeitig zur Verfügung."
 7. Krankheitserreger erforschen und überwachen
-  1. Genomische Surveillance = Varianten erforschen
-  2. Erregereigenschaften kennen, Entwicklungen verfolgen
-  3. Abwassermonitoring
-  4. Grundlagenforschung konstant fördern, stärken, Nachwuchs ausbilden, Attraktivität steigern
-  5. Ulrike Protzer: „Wir brauchen eine konstante Förderung von Grundlagenforschung, sowohl die Forschung in der Grundlagenvirologie, um die Virusstruktur und die Viren in Zellen besser zu verstehen, als aber auch die Forschung im Bereich des Immunsystems. Die Strukturen, solche Forschung durchzuführen, müssen auch in Deutschland und Europa da sein, damit man zumindest versuchen kann, die Viren, die auf uns zukommen können, so gut wie möglich verstanden zu haben, bevor sie da sind."
-  6. Konstante Überwachung und Erforschung von Viren, um im Falle einer Pandemie auf Eigenschaften vorbereitet zu sein
-  7. International wissenschaftlich kommunizieren, auch wenn politische Beziehungen schwierig sind
-  8. Ulrike Protzer: „Damit wir wissen, was potenziell auf uns zukommen kann, brauchen wir eine internationale Surveillance. Dafür braucht es eine Kultur der Zusammenarbeit und der Kommunikation. Da haben wir jetzt politische Probleme. Mit Russland offensichtlich, aber leider ist im Moment auch die Situation mit China nicht ganz einfach. Da hoffe ich, dass wir wieder auf ein Niveau kommen, auf dem guter Austausch auf einer wissenschaftlichen Ebene möglich bleibt."
-  9. Es sollte dauerhaft nach wissenschaftlichen Kriterien besetzte Expert\*innenräte geben (nicht nach politischen Interessen oder erwarteten Ergebnissen) -\> können früh auf Wissenslücken hinweisen
-  10. Viola Priesemann: „Eine Art Expertengremium zu den verschiedenen Themen, das rein wissenschaftlich zusammengesetzt ist, ist essenziell für das Vertrauen. Man sollte nicht nach Prominenz, nicht nach Politik, nicht nach Ergebnis dieser Gremien zusammenstellen, sondern immer rein nach Expertise."
+    1. Genomische Surveillance = Varianten erforschen
+    2. Erregereigenschaften kennen, Entwicklungen verfolgen
+    3. Abwassermonitoring
+    4. Grundlagenforschung konstant fördern, stärken, Nachwuchs ausbilden, Attraktivität steigern
+    5. Ulrike Protzer: „Wir brauchen eine konstante Förderung von Grundlagenforschung, sowohl die Forschung in der Grundlagenvirologie, um die Virusstruktur und die Viren in Zellen besser zu verstehen, als aber auch die Forschung im Bereich des Immunsystems. Die Strukturen, solche Forschung durchzuführen, müssen auch in Deutschland und Europa da sein, damit man zumindest versuchen kann, die Viren, die auf uns zukommen können, so gut wie möglich verstanden zu haben, bevor sie da sind."
+    6. Konstante Überwachung und Erforschung von Viren, um im Falle einer Pandemie auf Eigenschaften vorbereitet zu sein
+    7. International wissenschaftlich kommunizieren, auch wenn politische Beziehungen schwierig sind
+    8. Ulrike Protzer: „Damit wir wissen, was potenziell auf uns zukommen kann, brauchen wir eine internationale Surveillance. Dafür braucht es eine Kultur der Zusammenarbeit und der Kommunikation. Da haben wir jetzt politische Probleme. Mit Russland offensichtlich, aber leider ist im Moment auch die Situation mit China nicht ganz einfach. Da hoffe ich, dass wir wieder auf ein Niveau kommen, auf dem guter Austausch auf einer wissenschaftlichen Ebene möglich bleibt."
+    9. Es sollte dauerhaft nach wissenschaftlichen Kriterien besetzte Expert\*innenräte geben (nicht nach politischen Interessen oder erwarteten Ergebnissen) -\> können früh auf Wissenslücken hinweisen
+    10. Viola Priesemann: „Eine Art Expertengremium zu den verschiedenen Themen, das rein wissenschaftlich zusammengesetzt ist, ist essenziell für das Vertrauen. Man sollte nicht nach Prominenz, nicht nach Politik, nicht nach Ergebnis dieser Gremien zusammenstellen, sondern immer rein nach Expertise."
 8. Klar kommunizieren, Rollen trennen
-  1. Wissenschaftlich fundierte Kommunikation: zu Unsicherheiten stehen, Szenarien kommunizieren, Fehl- und Falschinformationen erschüttern das öffentliche Vertrauen, Kommunikation von Unsicherheiten, Wahrscheinlichkeiten, Risiken
-  2. Gesundheitskompetenz fördern, Vertrauen in Institutionen stärken (hängt auch mit Wirksamkeit von Maßnahmen, Impfbereitschaft etc. zusammen)
-  3. Datengrundlage, 2. Szenarien, 3. Güterabwägung
-  4. Klare Rollentrennung: Wissenschaft und Behörden erheben Daten (Wissenschaft frei nach wissenschaftlichen Standards, Behörden nach gesetzlich geregelten Prozessen), Wissenschaft forscht, Wissenschaft kommuniziert Stand der Forschung und mögliche Szenarien, Politik trifft evidenzbasierte Entscheidungen
-  5. SMC: „Gelingende Kommunikation in der Öffentlichkeit kann nur dann ideal funktionieren, wenn alle Beteiligten ihre Rolle ausfüllen."
-  6. Modellierer\*innen sollten keine Maßnahmen fordern, Modelle sollen als Hilfestellung für Entscheidungsträger dienen
-  7. Statistisches Verständnis von Entscheidungsträgern ist wichtig
-  8. Klare und offene Kommunikation, auf Basis welcher Wissenschaft politische Entscheidungen getroffen werden
-  9. Verantwortung von Medien: spezialisierte wissenschaftliche Berichterstattung; kein Wettlauf um die jeweils aktuellsten Zahlen, Journalismus sollte langsamer sein; Mittelwerte statt Extremszenarien kommunizieren; weniger Aktualität und Regionalität, dafür Gesamtbild, handlungsrelevantes Wissen vermitteln; Zusammenhänge erklären; politische Entscheidungen evidenzbasiert hinterfragen
-  10. Science Media Center: „Gerade zum Anfang der Pandemie gab es einen Wettlauf nach den jeweils aktuellsten Zahlen. Dies hat dazu geführt, dass viele Angebote (Dashboards, Infokästen auf Startseiten und der ersten Seite der Tageszeitung) genau auf diese neuesten Zahlen, gerne auch mit der Veränderung zur Vorwoche, fokussierten. […] dann wurde schnell klar, dass das tiefere Verständnis nicht immer übermittelt wurde. Diese tiefere Erkenntnis ist nicht mit der aktuellsten Zahl zu verwechseln. Bei der nächsten Pandemie müssen die Medien daher stärker diese Zusammenhänge erklären."
-  11. Science Media Center: „Echte Unsicherheiten (Im Frühjahr 2020 war z.B. noch nicht klar, wann eine Impfung kommt und wie wirksam sie sein würde) sollen dabei nicht verschwiegen, sondern können zum Beispiel in Szenarien kommuniziert werden."
-  12. Science Media Center: „Zusammenfassend könnte etwas weniger Aktualität und Regionalität bei der Datenberichterstattung dabei helfen, das Gesamtbild für das Publikum besser zu zeichnen, den Fokus also nicht auf reine aktuelle Information, sondern stärker auf handlungsrelevantes Wissen zu legen."
-  13. Wissenschaftsjournalismus ohne Paywall, auf verschiedene Zielgruppen zugeschnitten
-  14. Viola Priesemann: „Wenn ich mir etwas wünschen könnte, wäre das Wissenschaftsjournalismus in der Qualität, wie wir sie hatten, aber ohne Paywall und gezielt für alle Gruppen, von wirklich einfacher Sprache bis komplex. Einen Wissenschaftsjournalismus ohne Paywall in der Krise, das müssten wir uns eigentlich leisten können. Und ich würde mir von den Medien wünschen, dass sie langsamer sind."
-  15. Peter Klimek: „Letzten Endes deuten mittlerweile viele Studien darauf hin, dass einer der wichtigsten Hebel die Gesundheitskompetenz in der Bevölkerung ist. Je höher diese Kompetenz ist, desto weniger wird man auf stark einschneidende Maßnahmen wie Lockdowns dauerhaft zurückgreifen müssen."
-  16. Stefan Scholz: „Es steht Modelliererinnen und Modellierern meiner Meinung nach nicht zu, Maßnahmen zu fordern. Modelle sollen Entscheidungsträgern nur helfen, wahrscheinliche Entwicklungen und die Konsequenzen von Maßnahmen bezüglich epidemiologischer Fallzahlen abzuschätzen."
+    1. Wissenschaftlich fundierte Kommunikation: zu Unsicherheiten stehen, Szenarien kommunizieren, Fehl- und Falschinformationen erschüttern das öffentliche Vertrauen, Kommunikation von Unsicherheiten, Wahrscheinlichkeiten, Risiken
+    2. Gesundheitskompetenz fördern, Vertrauen in Institutionen stärken (hängt auch mit Wirksamkeit von Maßnahmen, Impfbereitschaft etc. zusammen)
+    3. Datengrundlage, 2. Szenarien, 3. Güterabwägung
+    4. Klare Rollentrennung: Wissenschaft und Behörden erheben Daten (Wissenschaft frei nach wissenschaftlichen Standards, Behörden nach gesetzlich geregelten Prozessen), Wissenschaft forscht, Wissenschaft kommuniziert Stand der Forschung und mögliche Szenarien, Politik trifft evidenzbasierte Entscheidungen
+    5. SMC: „Gelingende Kommunikation in der Öffentlichkeit kann nur dann ideal funktionieren, wenn alle Beteiligten ihre Rolle ausfüllen."
+    6. Modellierer\*innen sollten keine Maßnahmen fordern, Modelle sollen als Hilfestellung für Entscheidungsträger dienen
+    7. Statistisches Verständnis von Entscheidungsträgern ist wichtig
+    8. Klare und offene Kommunikation, auf Basis welcher Wissenschaft politische Entscheidungen getroffen werden
+    9. Verantwortung von Medien: spezialisierte wissenschaftliche Berichterstattung; kein Wettlauf um die jeweils aktuellsten Zahlen, Journalismus sollte langsamer sein; Mittelwerte statt Extremszenarien kommunizieren; weniger Aktualität und Regionalität, dafür Gesamtbild, handlungsrelevantes Wissen vermitteln; Zusammenhänge erklären; politische Entscheidungen evidenzbasiert hinterfragen
+    10. Science Media Center: „Gerade zum Anfang der Pandemie gab es einen Wettlauf nach den jeweils aktuellsten Zahlen. Dies hat dazu geführt, dass viele Angebote (Dashboards, Infokästen auf Startseiten und der ersten Seite der Tageszeitung) genau auf diese neuesten Zahlen, gerne auch mit der Veränderung zur Vorwoche, fokussierten. […] dann wurde schnell klar, dass das tiefere Verständnis nicht immer übermittelt wurde. Diese tiefere Erkenntnis ist nicht mit der aktuellsten Zahl zu verwechseln. Bei der nächsten Pandemie müssen die Medien daher stärker diese Zusammenhänge erklären."
+    11. Science Media Center: „Echte Unsicherheiten (Im Frühjahr 2020 war z.B. noch nicht klar, wann eine Impfung kommt und wie wirksam sie sein würde) sollen dabei nicht verschwiegen, sondern können zum Beispiel in Szenarien kommuniziert werden."
+    12. Science Media Center: „Zusammenfassend könnte etwas weniger Aktualität und Regionalität bei der Datenberichterstattung dabei helfen, das Gesamtbild für das Publikum besser zu zeichnen, den Fokus also nicht auf reine aktuelle Information, sondern stärker auf handlungsrelevantes Wissen zu legen."
+    13. Wissenschaftsjournalismus ohne Paywall, auf verschiedene Zielgruppen zugeschnitten
+    14. Viola Priesemann: „Wenn ich mir etwas wünschen könnte, wäre das Wissenschaftsjournalismus in der Qualität, wie wir sie hatten, aber ohne Paywall und gezielt für alle Gruppen, von wirklich einfacher Sprache bis komplex. Einen Wissenschaftsjournalismus ohne Paywall in der Krise, das müssten wir uns eigentlich leisten können. Und ich würde mir von den Medien wünschen, dass sie langsamer sind."
+    15. Peter Klimek: „Letzten Endes deuten mittlerweile viele Studien darauf hin, dass einer der wichtigsten Hebel die Gesundheitskompetenz in der Bevölkerung ist. Je höher diese Kompetenz ist, desto weniger wird man auf stark einschneidende Maßnahmen wie Lockdowns dauerhaft zurückgreifen müssen."
+    16. Stefan Scholz: „Es steht Modelliererinnen und Modellierern meiner Meinung nach nicht zu, Maßnahmen zu fordern. Modelle sollen Entscheidungsträgern nur helfen, wahrscheinliche Entwicklungen und die Konsequenzen von Maßnahmen bezüglich epidemiologischer Fallzahlen abzuschätzen."
 
 # <a name="antworten"></a>Antworten im Detail
 
