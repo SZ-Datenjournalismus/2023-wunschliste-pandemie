@@ -318,6 +318,163 @@ Das Bereitstellen von Daten nach detaillierter Region, Geschlecht und Alter wird
 
 Mein Fokus liegt auf der Mortalität und hier habe ich eine enorme Beschleunigung und Ausweitung der Datenveröffentlichung erlebt. So gibt es mittlerweile in Deutschland eine im Monatsrhythmus veröffentlichte und aktuelle Todesursachenstatistik [https://www.destatis.de/DE/Themen/Gesellschaft-Umwelt/Gesundheit/Todesursachen/Tabellen/sonderauswertung-todesursachen.html] – ein unglaublicher Fortschritt gemessen an der jährlichen und um 6 Monate verzögerten Veröffentlichung vor der Pandemie. Europaweit gibt es regionale und aktuelle Daten zu Todesfällen – auch dies war vor der Pandemie nicht gegeben. Bei allen bestehenden Mängeln: die Bevölkerungsstatistik hat sich während der Pandemie enorm bewegt.
 
+## Stefan Scholz, wissenschaftlicher Koordinator des Modellierungsnetzes für schwere Infektionskrankheiten 
+
+**Wenn Sie eine Wunschliste schreiben könnten: Welche Daten würden Sie sich für die nächste Pandemie wünschen und warum?** 
+
+1. Der dringendste Wunsch wäre eine zeitnah aufgesetzte, repräsentative Seroprävalenz-Studie ähnlich zu den ONS-Daten in UK. 
+
+2. Zeitnaher und einfacher Zugang zu Routinedaten der Krankenkassen bzw. Daten zur Inanspruchnahme des Gesundheitswesens (d.h. Arztbesuche, Krankenhausaufenthalte und ITS) sowie Sterbefälle sind natürlich ebenfalls wichtig zur Orientierung. Das erlaubt auch besser die Größe von vulnerablen Gruppen abzuschätzen. 
+
+3. Routinemäßig erhobene Daten zum Kontaktverhalten der Bevölkerung. Mobilfunkdaten sind eine gute Ergänzung, aber Kontakte im Altenheim oder anderen spezifischen Settings sind damit sehr schwer abzubilden. Wir brauchen auch mehr Informationen, wie Kontakte außerhalb von Pandemien sind, damit wir die Wirkung von Maßnahmen in einzelnen Settings besser abschätzen können. 
+
+4. Personenbezogene Impfdaten, auch und gerade von den Niedergelassenen 
+
+**Für wie realistisch halten Sie diese Wünsche und warum?** 
+
+1. Wir hatten solche Studien in Deutschland aber aus meiner Sicht zu spät und zu fragmentiert. 
+
+2. Daran wird bereits gearbeitet, indem am Bundesinstitut für Arzneimittelsicherheit ein Forschungsdatensatz entsteht. Nur der Zugang muss niedrig-schwelliger werden. 
+
+3. Hier ist einfach die Frage ob das eine Routineaufgabe bspw. des RKI sein sollte, oder ob sowas über Forschungsförderung erfolgen kann. Vielleicht kann so etwas auch in andere Panel wie dem Sozio-ökonomischen Panel aufgenommen werden. 
+
+4. Eher gering, weil bestimmte Interessensgruppen etwas dagegen haben werden. 
+
+Hier sehe ich insgesamt wieder die Gefahr, dass Gelder eher in vermeintliche „silver bullets" wie Datenspende-App, Luca-App oder Corona Warn App gesteckt werden, anstatt „die Basics" zu fördern. 
+
+**Wer müsste sich darum kümmern, dass Ihre Wunschliste Realität wird?** 
+
+1. Federführung des HZI oder RKI mit Finanzierung durch BMBF oder BMG 
+
+2. BMG 
+
+3. RKI oder Universitäten je nach Ausgestaltung, ebenfalls BMG oder BMBF 
+
+4. BMG und Kassenärztliche Vereinigungen 
+
+**An welchen Stellen hat sich die Datenlage aus Ihrer Sicht in den vergangenen Jahren bereits verbessert?** 
+
+An der Datenlage hat sich vermutlich gar nicht so viel getan, in dem Sinne, dass viele Daten sowieso erhoben werden, aber nicht zusammengeführt waren. Positiv war aus meiner Sicht definitiv das DIVI-Register, der COVIMOD-Survey in Münster und MusPAD am HZI ([https://hzi-c19-antikoerperstudie.de/en/results/](https://hzi-c19-antikoerperstudie.de/en/results/)). Ich will auch gerne nochmal das Engagement der Krankenkassen herausheben, die wirklich sehr bemüht und engagiert waren uns bei Fragen zu Risikogruppen und Long COVID zu unterstützen. 
+
+**Welche strukturellen Vor- und Nachteile sehen Sie in der in Deutschland häufig auftretenden föderalen Datensammlung und wie ließe sich diese Infrastruktur aus Ihrer Sicht verbessern?** 
+
+Ich sehe leider fast nur Nachteile. Es bedarf viel zu viel Abstimmung, um einheitliche Definitionen durchzusetzen, Datenbankstrukturen aufzusetzen sowie den Datenschutz zu klären. Und es ist sehr ineffizient 16 sub-optimale Datenbanken zu betreiben anstatt alle IT Fachkräfte an einer großen, an Nutzer\*innen orientierten Datenbank zu bündeln, die dann ja auch Regionaldaten ausgeben können. Gerade vor dem Hintergrund des Fachkräftemangels in der IT im öffentlichen Dienst. 
+
+**Wie könnten Nowcasts, Forecasts und Modellierungen idealerweise aufgesetzt, genutzt und kommuniziert werden?** 
+
+Aus meiner Sicht muss erstmal der Unterschied zwischen Prognosen und Szenarien-Modellierung stärker betont werden. Man kann das gleiche Modell für beide Zwecke nutzen, aber Prognosemodell brauchen in der Regel nicht zwingend so viel strukturelle Vorgaben. Idealerweise brauchen die Modelle vor allem APIs, d.h. definierte Schnittstellen zu den Daten, damit nicht unnötig Zeit mit der Beschaffung und Aufarbeitung von Daten verloren geht. Idealerweise stehen diese APIs auch allen offen, damit die Möglichkeit zur Modellierung nicht von persönlichen Kontakten zu Datenhaltern abhängt. Im Gegenzug wäre es schön, wenn alle Modellierungsgruppen ihre Ergebnisse sammeln und man die Modelle direkt nebeneinander vergleichen kann. So wie es Johannes Bracher mit den Nowcasts gemacht hat. In der Kommunikation würde ich mir wünschen, dass die Kommunikation sich auf das beschränkt, was die Modelle abbilden: Die absolute Entwicklung von epidemiologischen Fallzahlen über die Zeit (Prognose) oder die relative Entwicklung der Zahlen bei verschiedenen Interventionen (Szenarien). Es steht Modellierer\*innen meiner Meinung nach nicht zu, Maßnahmen zu fordern. Modelle sollen Entscheidungsträgern nur helfen wahrscheinliche Entwicklungen und die Konsequenzen von Maßnahmen bezüglich epidemiologischer Fallzahlen abzuschätzen. 
+
+**Welche Daten würden Sie sich konkret dafür wünschen, mit Modellierungen besser Informationen für die politische Entscheidungsfindung liefern zu können?** 
+
+Daten eigentlich die gleichen wie bei 1. Was ich gut fände, wenn die Politik sich Expertenräte für Katastrophen a priori festlegt und nicht erst mit Eintritt des Ereignisses Experten zusammensucht und ohne Forschungsförderung sporadisch nach ihrer Meinung fragt. Auf diese Weise könnte man schon früher auf Wissenslücken hinweisen und gezielt vor Eintreten der Katastrophe schließen. 
+
+**Wie würde dafür die Forschungsstruktur Ihrer Träume aussehen?** 
+
+Ich würde mich an England orientieren: Ich fände es gut, wenn es 3-4 Zentren (RKI, HZI, Universitäten) in Deutschland gibt, die Modellierung betreiben, auch außerhalb von Pandemien. Es gibt genügend Forschungsfragen für endemische Erreger und auf diese Weise bleibt Modellierungswissen vorhanden, dass bei einer Pandemie schnell verfügbar ist. Diese Zentren sollten idealerweise mit Medizin, Öffentlichem Gesundheitsdienst, aber auch Disziplinen wie Soziologie, Psychologie, usw. vernetzt werden. 
+
+## gemeinsame Antwort des Modellierungsnetzes für schwere Infektionskrankheiten 
+
+**Wenn Sie eine Wunschliste schreiben könnten: Welche Daten würden Sie sich für die nächste Pandemie wünschen und warum?** 
+
+- Repräsentative Seroprävalenz-Studie ähnlich zu den ONS-Daten in UK; in regelmäßigen Abständen durchgeführt (alle 2 Monate?) bzw. als Panel-Studie. 
+
+- Zeitnaher und einfacher Zugang zu Routinedaten der Krankenkassen 
+
+- Personenbezogene Impfdaten, auch und gerade von den Niedergelassenen 
+
+- Altersspezifische Daten zur Inanspruchnahme des Gesundheitswesens (d.h. Arztbesuche, Krankenhausaufenthalte und ITS). So viel wie möglich davon in Echtzeit (IVENA-Daten) – Schnelligkeit der Datenbereitstellung ist wichtiger als Perfektion. 
+
+- Altersspezifische Sterbefälle mit Impfstatus, evtl. Vorerkrankungen in Echtzeit. 
+
+- Routinemäßig erhobene Daten zum Kontaktverhalten der Bevölkerung. Mobilfunkdaten sind eine gute Ergänzung, aber Kontakte im Altenheim oder anderen spezifischen Settings sind damit sehr schwer abzubilden. Wir brauchen auch mehr Informationen, wie Kontakte außerhalb von Pandemien sind, damit wir die Wirkung von Maßnahmen in einzelnen Settings besser abschätzen können. 
+
+- Informationen zu Kontaktnachverfolgungen: Wo stecken sich Personen an (inkl. "unbekannt"), und wie viele Personen müssen in Quarantäne/Isolation. Unterscheidung zwischen "Ansteckung im eigenen Haushalt bei Mitgliedern eigener Haushalt" und "Ansteckung im eigenen Haushalt bei Besuchern". 
+
+- Routinemäßig erhobene räumlich-verankerte Daten zur Einstellung (allgemeine Impfbereitschaft, Vertrauen in Wissenschaft, Vertrauen in Politik, Vertrauen in Medien) 
+
+- Mehr Sequenzierungsdaten von abgenommenen PCR-Tests (nicht notwendigerweise alle, aber z.B. einen bestimmten Prozentsatz pro Labor) 
+
+- Mehr und systematischere Sequenzierungsdaten von Abwasserproben aus geografisch verteilten Großstädten und aus dem ländlichen Bereich 
+
+**Für wie realistisch halten Sie diese Wünsche und warum?** 
+
+- Viele Daten sind schon verfügbar, aber müssten schneller verfügbar und verknüpfbar sein 
+
+- Digitalisierung mit adäquater, automatischer Aggregation (und dadurch Anonymisierung) würde sehr helfen (oder differential Privacy Ansätze) 
+
+- Es ist immer dann realistisch, wenn keinerlei politische Interessen einer Institution oder individuellen Interessen des Datenhalters (bspw. hinsichtlich Publikationen) gegen die Weitergabe der Daten sprechen. Entsprechende Hürden müssen abgebaut werden. 
+
+- Für die Echtzeit-Steuerung der Pandemie geht Geschwindigkeit vor Perfektion. Hier muss sich eine entsprechende Einstellung entwickeln, dass Daten nicht erst z.B. nach der Bereinigung bereitgestellt werden, sondern sofort. 
+
+- In vielen Fällen reichen Stichproben, z.B. bestimmte Daten nur von allen Krankenhauseinweisungen, oder nur in bestimmten Städten oder Landkreisen. Auch hier muss sich eine Einstellung entwickeln, dass wir nicht immer eine Vollerhebung brauchen. 
+
+**Wer müsste sich darum kümmern, dass Ihre Wunschliste Realität wird?** 
+
+- Letztlich muss der Gesetzgeber hier die Rahmenbedingungen schaffen, bzw. BMG oder BMBF entsprechende Initiativen aufsetzen. 
+
+- Für die Bündelung der Daten, zumindest aus dem Gesundheitsbereich, wäre eine Behörde wie das bereits aufgelöste DIMDI, das RKI oder auch das BfArM sicherlich geeignet. Aber auch wissenschaftliche Hubs wie das Netzwerk Universitätsmedizin (NUM) kommen dafür in Frage. 
+
+**An welchen Stellen hat sich die Datenlage aus Ihrer Sicht in den vergangenen Jahren bereits verbessert?** 
+
+- DIVI-Intensivregister 
+
+- Abwasser-Surveillance 
+
+- Nutzung von Mobilfunkdaten 
+
+- COVIMOD-Survey 
+
+**Welche strukturellen Vor- und Nachteile sehen Sie in der in Deutschland häufig auftretenden föderalen Datensammlung und wie ließe sich diese Infrastruktur aus Ihrer Sicht verbessern?** 
+
+Nachteile: 
+
+- Bundesweite Daten bedürfen immer der Abstimmung von 16 Institutionen (+Bund) 
+
+- Ineffizienter Einsatz von IT-Fachkräften für 16 Datenbanken, statt 1 Datenbank 
+
+Vorteile: 
+
+- Möglichkeit einzelne Datenpartikel explorativ lokal begrenzt zu erheben 
+
+- Manche Länder (oder auch Kommunen) sind vorangegangen, ohne auf den Bund zu warten. 
+
+**Wie könnten Nowcasts, Forecasts und Modellierungen idealerweise aufgesetzt, genutzt und kommuniziert werden?** 
+
+- Besseres Verständnis von Prognose und Szenarienmodellen und deren Nutzen für Entscheidungsträger\*innen 
+
+- Mehr Input von Entscheidungsträgern hinsichtlich der zu modellierenden Handlungsoptionen 
+
+- Bessere Schnittstellen (APIs) für Datenflüsse in Modelle 
+
+- Plattformen für Ensemble-Modellierung, Vergleiche von Modellen bzw. eine zentrale Institution, die eine vernünftige Auswahl der (jeweils aktuellen) "state-of-the-art" Modelle implementiert, pflegt und erweitert - und im Krisenfall mit allen verfügbaren Daten füttern bzw. bedienen kann. Das ausreichend dimensionierte Personal sollte aus Leuten bestehen, die "wissenschaftlich nichts erreichen müssen / wollen" - damit die sich voll auf diese Aufgabe konzentrieren." ("Lagezentrum") 
+
+**Welche Daten würden Sie sich konkret dafür wünschen, mit Modellierungen besser Informationen für die politische Entscheidungsfindung liefern zu können?** 
+
+- Klärung von Zuständigkeiten bzw. Prozessen in der Politik (wer wird gerade von wem beraten?) 
+
+- Klarer Kommunikationskanal über den Entscheidungsträger ihre Fragen an Modellierungs-Teams stellen können 
+
+- Eine klare Definition und Kommunikation der gewählten Strategie - soweit das zu den jeweiligen Zeitpunkten möglich ist 
+
+- Ein guter Plan von einem Prozess, der es erlaubt, ExpertInnengremien fachlich (und nicht politisch) zusammenzusetzen 
+
+Entweder: 
+
+- Festlegung von multi-disziplinären Expertengremien vor dem Eintreten von Katastrophenszenarien (ähnlich zu SAGE in UK) 
+
+Oder: 
+
+- Ein guter Plan von einem Prozess, der es erlaubt, ExpertInnengremien fachlich (und nicht politisch) zusammenzusetzen 
+
+**Wie würde dafür die Forschungsstruktur Ihrer Träume aussehen?** 
+
+- Trennung zwischen Daueraufgaben (z.B. Datenaufbereitung, Vernetzung) mit solider Grundfinanzierung an Institutionen (wie RKI, BfArM, etc) und Forschungsprojekten mit Projektfinanzierung (an Forschungseinrichtungen, Universitäten) 
+
+- Anschubfinanzierung von 3-4 Forschungszentren an Universitäten, die Forschung und Lehre zu infektionsepidemiologischer Modellierung etablieren 
+
+- Diese Zentren sollten mit einem "Lagezentrum" (siehe Kommentar oben) zusammenarbeiten müssen, damit der Technologietransfer gegeben ist. 
+
+
 ## Bundesministerium für Gesundheit
 
 Die Datenlage hat sich in den vergangenen Jahren wesentlich verbessert. Das Infektionsschutzgesetz wurde überarbeitet, die Regelungen zum Meldewesen nachgeschärft, die Aufgaben des Robert Koch-Instituts ausgeweitet, die Verpflichtung zur Daten-Erfassung präzisiert. Auch bei der Präsentation der Daten sind deutliche Verbesserungen erzielt worden (Pandemieradar, RKI-Berichte, öffentliche Daten des Divi-Registers…usw.):
